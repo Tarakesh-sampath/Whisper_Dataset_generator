@@ -3,6 +3,7 @@
   "description": "",
   "features": {
     "audio": {
+      "sampling_rate": 16000,
       "_type": "Audio"
     },
     "text": {
